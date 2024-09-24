@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+}
+
+img,
+video {
+  display: block;
+}
+@font-face {
+  font-family: "The Billion";
+  src: url("../font/The-Billion-Monoline.woff") format("woff");
+}
+h1 {
+  font-family: "The Billion";
+}
